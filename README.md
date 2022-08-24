@@ -1,4 +1,4 @@
-### Opa pessoal! 🤘
+### Opa pessoal! 🤘🤖
 
 ##
 
@@ -7,15 +7,18 @@
   <a href="https://github.com/p-dr">
   <!--
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=p-dr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  -->
+  
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-dr&layout=compact&langs_count=7&theme=dracula"/>
+  -->
+  
+  
+  
 
 </div>
   
-##
   
- > #### 📫✉️ Contato
+> #### 📫✉️ Contato
 
 <div>
   
@@ -31,12 +34,11 @@
   target="_blank"></a>
 
 </div>
-  
-  ##
+
   
 > ####  🔧 Ferramentas 
   
-  <img
+  <img height="28m" src="https://img.shields.io/badge/-UiPath-blue?style=flat-square&logo"> <img
   src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
   target="_blank">
   <img
@@ -44,7 +46,12 @@
   target="_blank">
   <img
   src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
-  target="_blank">
+  target="_blank">     
  
   ![Snake animation](https://github.com/p-dr/p-dr/blob/output/github-contribution-grid-snake.svg) 
+  <!--
+ [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=lopes.dsouza)](https://open.spotify.com/user/lopes.dsouza)
+ -->
+  
+   
 
